@@ -1,7 +1,7 @@
 ## [WEBDEV](https://katheryn-k-js2020q3-webdev.netlify.app/)
 
-Landing page by template:
-![webdev-latest-version](/Users/katyakyrychenko/Downloads/webdev-latest-version.jpg)
+[Landing page by template](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/markups/level-1/webdev/webdev-latest-version.jpg)
+
 
 Use: 
 - PerfectPixel
