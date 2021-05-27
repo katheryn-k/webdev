@@ -4,11 +4,11 @@
 
 
 Use: 
-- PerfectPixel
+- PerfectPixel layout
 
 
 Deploy:
-- Netlify
+- GitHub Pages
 
 Copyright
 
